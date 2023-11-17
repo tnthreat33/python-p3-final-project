@@ -9,7 +9,7 @@
 - Use SQLAlchemy ORM to join multiple tables to each other using one-to-one,
   one-to-many, many-to-many relationships.
 - Use `list`s, `dict`s, and `tuple`s in appropriate contexts.
-- Exercise best practices in CLI design.
+- Exercise best practices in CLI design..
 
 ***
 
